@@ -6,3 +6,4 @@ Autor : Adam Klečka
 * [evaluate.py](evaluate.py) -> Počítá F1 skóre pro testovací dataset. Využívá [prediction.py](prediction.py) a [test.py](test.py).
 
 * [test_zdo2021.py](test_zdo2021.py) -> Spustitelný test.
+* [visual.ipynb](visual.ipynb) -> Také spustitelný test v jupyter notebooku.
