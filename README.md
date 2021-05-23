@@ -7,6 +7,7 @@ Autor : Adam Klečka
 
 * [test_zdo2021.py](test_zdo2021.py) -> Spustitelný test.
 * [visual.ipynb](visual.ipynb) -> Také spustitelný test v jupyter notebooku.
+* Složka [tests](tests) a [zdo2021](zdo2021) obsahuje spustitelný test ze zadání.
 
 ![](img/det_0.png 'před detekcí') ![](img/det_1.jpg 'po detekci')
 
